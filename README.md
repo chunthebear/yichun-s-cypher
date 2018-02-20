@@ -5,6 +5,6 @@ The original idea is based on the Vigenère cipher. It was part of my assignment
 
 I have also created the program ""Yichun's Reverse-cypher" to decrypt messages that were encrypted using ASCII Code.
 
-Fun stuff :D
+Fun stuff :smile:
 
 _Yichun Zhao 19/02/2018_
