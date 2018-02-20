@@ -2,6 +2,7 @@
 #written by Yichun Zhao
 #purpose of this program: to encrypt message using ascii code
 
+#ask user for input
 key = raw_input("key?")
 message = raw_input("message?")
 
