@@ -1,2 +1,2 @@
 # yichun-s-cypher
-The program "Cypher" encrypts messages using ASCII Code.
+The program "Yichun's Cypher" encrypts messages using ASCII Code.
